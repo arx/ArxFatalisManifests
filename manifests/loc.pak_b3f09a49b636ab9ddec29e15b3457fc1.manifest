@@ -1,0 +1,15 @@
+Type: full game
+                                  localisation/
+d1a4401d08502318371c47f80b175e13 *localisation/presence.ini
+4fcc39ad0f26c98d0faae69a4b95c094 *localisation/snd_armor.ini
+ff8a52f0579d8bfa04c8028f8e8f12ef *localisation/snd_material.ini
+ffe2077e85d226300bebd3d0021618cf *localisation/snd_other.ini
+9943481df910c6a0b94390015ce0c8c7 *localisation/snd_step.ini
+0d42bedce8f4116ad6126e66394b9dec *localisation/snd_weapon.ini
+ebd870da9bb68c024af84a18c4d5cf3e *localisation/ucredits_deutsch.txt
+eba2044744c9a1539d154b9c4c033469 *localisation/ucredits_english.txt
+f98b60af3d7e81bc24e945a2debd6cb6 *localisation/ucredits_francais.txt
+36de88578c05954cf5e8ea42a5a6df2f *localisation/ucredits_italiano.txt
+37135647caa7458ffcaa191677da8999 *localisation/utext_francais.ini
+                                  misc/
+9a95ff96795c034524ba1c2e94ea12c7 *misc/arx.ttf
